@@ -13,13 +13,13 @@
 }
 
 .tasks__item__toggle:hover {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(131, 50, 50, 0.1);
   border-color: rgba(0, 0, 0, 0.15);
 }
 
 .tasks__item__toggle--completed {
   text-decoration: line-through;
-  background-color: rgba(0, 128, 0, 0.15);
+  background-color: rgba(14, 38, 216, 0.1);
   border-color: rgba(0, 128, 0, 0.2);
 }
 
@@ -28,7 +28,7 @@
   width: 100%;
   text-align: left;
   padding: 0.85em 2.25em 0.85em 1em;
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(34, 158, 100, 0.914);
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
