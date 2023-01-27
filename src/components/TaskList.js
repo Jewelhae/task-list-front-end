@@ -4,7 +4,7 @@ import Task from './Task';
 import './TaskList.css';
 
 const TaskList = ({tasks}) => {
-  
+    //const tasks = props.tasks
     const taskComponent = tasks.map((task) => {
         return (
       <Task
